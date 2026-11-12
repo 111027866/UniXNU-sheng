@@ -6,7 +6,7 @@
 "description" = "Xiaomi Pad 6S Pro"
 "kit" = "sheng"
 "soc_source" = "sm8550"
-"os_profile" = "macos-27.3-26C5035r"
+"os_profile" = "ipados-27.0.1-24A446"
 
 
 ["userdata"]
